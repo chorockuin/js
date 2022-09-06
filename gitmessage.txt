@@ -1,0 +1,21 @@
+Subject
+
+Body
+
+-------------------------------------------------|
+* Subject Rule
+  - English only
+  - Capitalize first character
+  - 50 characters or less
+  - Don't use '.'
+  - Begin with below word only
+    - Add : new features
+    - Update : feature
+    - Remove : feature
+    - Refactor : feature's structure not testcase
+    - Fix : bug
+    - Verify : feature with testcase
+------------------------------------------------------------------------------|
+* Body Rule
+  - 79 characters or less per line
+  - Describe 'what' and 'why' not 'how'
